@@ -4,6 +4,9 @@
 
 <p>
 </p>
+
+<h3 align="center">Hi there! 👋</h3>
+
 <p align="center">
   I'm <strong>Fynn</strong>, a German hobbyist software developer.<br>
   I’m passionate about:
