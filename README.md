@@ -1,6 +1,30 @@
-## Hi there!
+<p align="center">
+  <img src="https://github.com/Fynn-N.png" width="150" alt="Profile picture">
+</p>
 
-My name is Fynn and I am a german hobbyist software developer.
-I find interest in coding and cybersecurity.
+<p>
+</p>
+<p align="center">
+  I'm <strong>Fynn</strong>, a German hobbyist software developer.<br>
+  I’m passionate about:
+</p>
 
-[![Programming languages I code in](https://skillicons.dev/icons?i=cs,cpp,linux,dotnet)](https://skillicons.dev)
+<ul>
+  <li>💻 Coding</li>
+  <li>🔐 Cybersecurity</li>
+</ul>
+
+<p align="center">
+  I enjoy working with .NET, Linux, C++, and diving into system internals and security tools.
+</p>
+
+---
+
+### My Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,linux,dotnet,git,vscode&perline=6" alt="Skills" />
+</p>
+<p align="center">
+  I currently focus on learning new skills like new programming languages.
+</p>
