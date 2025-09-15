@@ -26,7 +26,7 @@
 ### My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,linux,dotnet,git,vscode,arch&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,linux,dotnet,git,neovim,visualstudio,arch&perline=8" alt="Skills" />
 </p>
 <p align="center">
   I currently focus on learning new skills like new programming languages.
